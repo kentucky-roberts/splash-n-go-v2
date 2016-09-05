@@ -1,0 +1,12 @@
+{
+  "name": "splash-n-go",
+  "app_id": "6cb268a3",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}

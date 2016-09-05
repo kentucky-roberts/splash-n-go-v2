@@ -1,0 +1,34 @@
+<ion-view ng-controller="MainCtrl" view-title="Full Screen Photo Gallery">
+
+      <div class="bar bar-header bar-positive">
+          <h1 class="title">Splash-n-go</h1>
+      </div>
+
+      <ion-content>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          
+
+
+
+          <hscroller>
+            <hcard ng-repeat="item in items" index="{{$index}}" desc="{{item.desc}}" image="{{item.image}}"></hcard>
+          </hscroller>
+
+
+
+
+      </ion-content>
+
+
+
+
+</ion-view>

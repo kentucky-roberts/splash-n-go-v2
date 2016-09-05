@@ -1,0 +1,86 @@
+var posts = [
+   {
+      "title": "Retirement Not On The Radar For Jr.",
+      "url_title": "retirement-not-on-the-radar-for-jr",
+      "entry_id": 26,
+      "channel_id": 7,
+      "author_id": 1,
+      "status": "open",
+      "entry_date": 1453513200000,
+      "edit_date": 1453872902000,
+      "expiration_date": null,
+      "nascar-text": "As a 13-time recipient of the NMPA Most Popular Driver Award, beloved by fans and a star-studded symbol of stock car racing, Earnhardt is hardly the guy anyone would pinpoint as the one who wasn’t quite jelling with the group.\n\n But there was a time when Earnhardt would sit down at the table with Hendrick Motorsports owner Rick Hendrick and his teammates then leave the meeting having made little contribution to the discussion.\n\n \n\n For the longest time, I felt like maybe I was the odd man out or I just didn’t fit in, Earnhardt recalled at Charlotte Media Tour on Thursday. For whatever reason, it just didn’t feel like I was a piece of the puzzle. ... We couldn’t get our team going, we couldn’t find success, I was unhappy.",
+      "nascar_images": [
+         {
+            "row_id": 5,
+            "nascar_image": "img/demo-1.jpg"
+         }
+      ],
+      "nascar_keywords": "Dale Jr, Charlotte",
+      "nascar_tags": "drivers",
+      "nascar_meta_tags": "NMPA Most Popular Driver Award"
+   },
+   {
+      "title": "Alex Bowman Learned Via Twitter Feed That He Lost Cup Ride",
+      "url_title": "alex-bowman-learned-via-twitter-feed-that-he-lost-cup-ride",
+      "entry_id": 25,
+      "channel_id": 7,
+      "author_id": 1,
+      "status": "open",
+      "entry_date": 1453512840000,
+      "edit_date": 1453872839000,
+      "expiration_date": null,
+      "nascar-text": "Alex Bowman said he learned of his dismissal from Tommy Baldwin racing on Thursday through social media, bringing an abrupt end to his one-year term in the No. 7 Chevrolet.\n\n The 22-year-old driver’s remarks came Friday afternoon—one day after parting ways with the NASCAR Series team—on the Tradin\’ Paint program on SiriusXM NASCAR Radio.\n\n \n\n I went to the gym yesterday morning on my way to the shop to go work on my midget and I refreshed Twitter, and Twitter says I’m fired, Bowman said. I don’t know. I guess you’ll have that in big-time auto racing.",
+      "nascar_images": [
+         {
+            "row_id": 4,
+            "nascar_image": "img/demo-2.jpg"
+         }
+      ],
+      "nascar_keywords": "Alex Bowman, Twitter Feed, Lost Cup Ride",
+      "nascar_tags": "Alex Bowman, Cup",
+      "nascar_meta_tags": "Alex Bowman, Twitter Feed, Lost Cup Ride"
+   },
+   {
+      "title": "NASCAR Illustrated: Hang Ten from Martinsville",
+      "url_title": "nascar-illustrated-hang-ten-from-martinsville",
+      "entry_id": 24,
+      "channel_id": 7,
+      "author_id": 1,
+      "status": "open",
+      "entry_date": 1453512540000,
+      "edit_date": 1453872516000,
+      "expiration_date": null,
+      "nascar-text": "Kenny Wallace nailed another prediction in this space last week when he said Joey Loganohad more to worry about than Kevin Harvick when it came to revenge at Martinsville. \n\n After Matt Kenseth exacted it, NASCAR dropped the hammer with a two-race suspension that will be appealed in an expedited hearing Thursday morning.\n\n I said no penalty on my radio show and gave a whole monologue on why because the drivers policed themselves, Wallace said. But if there has to be a penalty, it needs to be the same penalty that Jeff Gordon had (from Phoenix wreck of Clint Bowyer in 2012): $100,000 and 25 points. Now here’s the other problem. Jeff Gordon didn’t come out of the pits nine laps down, so I understand why it would be more.\n\n Meanwhile, Danica Patrick was fined $50,000, stripped of 25 points and placed on NASCAR probation through year\’s end. Should she have received the same sanctions as Kenseth?\n\n No! Come on, that is ridiculous, Wallace said. I interviewed David Gilliland on our radio show. He wrecked her going into Turn 3 first then she came to retaliate and she ended up wrecking herself. She never even wrecked him. She did a poor job of wrecking him, OK? I’m sorry but that (doesn’t) hold a candle to the Matt Kenneth -Joey Logano deal. They were racing for position and she did not come out of the pits nine laps down. I just do not see it in the same spectrum.",
+      "nascar_images": [
+         {
+            "row_id": 3,
+            "nascar_image": "img/demo-3.jpg"
+         }
+      ],
+      "nascar_keywords": "",
+      "nascar_tags": "",
+      "nascar_meta_tags": ""
+   },
+   {
+      "title": "Herman Unplugged: What does this mean for NASCAR?",
+      "url_title": "herman-unplugged-what-does-this-mean-for-nascar",
+      "entry_id": 23,
+      "channel_id": 7,
+      "author_id": 1,
+      "status": "open",
+      "entry_date": 1453511640000,
+      "edit_date": 1453872759000,
+      "expiration_date": null,
+      "nascar-text": "NASCAR ILLUSTRATED:Tony Stewart\‘s retirement after next season means two of our biggest champions will be gone from the competitive landscape in the span of a year. How will losing that amount of star power impact the sport and should NASCAR be concerned?\n\n HERMAN: I think from the standpoint that Dale Jr. is gonna be 41 here in no time. We\’re looking at our sport\’s biggest stars by far and we\’re in that time where these drivers are not racing into their 50s no more. I see the new era of drivers quit in their mid-40s, because all these guys like Jeff, Tony and Dale, started as teenagers. Look at a Harry Gant or drivers back in the day that started in their 20s. It makes sense that these current guys who started young and came in at the right time making millions of dollars a year are leaving earlier. Their bodies have a lot of wear and tear. \n\n NASCAR knows we have to put a really big emphasis on Joey Logano now and guys like Brad Keselowski. Whether we like it or not, these guys are our next big superstars.",
+      "nascar_images": [
+         {
+            "row_id": 1,
+            "nascar_image": "img/demo-4.jpg"
+         }
+      ],
+      "nascar_keywords": "NASCAR, Tony Stewart, retirement",
+      "nascar_tags": "drivers",
+      "nascar_meta_tags": "NASCAR, Tony Stewart, retirement"
+   }
+];
